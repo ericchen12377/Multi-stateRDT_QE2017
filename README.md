@@ -4,7 +4,7 @@
 ### The paper [Multi-state Reliability Demonstration Tests](https://www.researchgate.net/publication/315955046_Multi-State_Reliability_Demonstration_Tests) has been published in [Quality Engineering](https://www.tandfonline.com/eprint/6aSdzucbThJSnxZMZira/full). 
 
 ## Instructions
-### The RDT design is based on simulation and each type of design has a different framework.
+### The RDT design is based on Monte Carlo Simulation and each type of design has a different framework.
 - **SRDT-binomial.R** is used for conventional binomial RDT (BRDT) design.
 - **SRDT-multiperiods.R** is used for multi-state RDT design (Scenario I) with specifications over cumulative time periods.
 - **SRDT-multiperiods(seperate).R** is used for multi-state RDT design (Scenario II) with specifications over seperate time periods.
